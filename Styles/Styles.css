@@ -1,0 +1,37 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.row-outline {
+    outline: 1px solid black;
+}
+
+.lorem-text {
+    font-size: 2rem;
+    font-weight: 600;
+
+}
+
+.dog-picture {
+    max-width: 100%;
+}
+
+.container-display {
+    background-color: purple;
+    margin-left: 10rem;
+}
+
+.button-group {
+    display: flex;
+    align-content: start;
+}
+
+.launch-button {
+    display: flex;
+    align-items: end;
+}
